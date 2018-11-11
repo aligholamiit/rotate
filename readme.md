@@ -1,1 +1,1 @@
-a simple js element rotator
+a simple typing speed test
