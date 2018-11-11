@@ -1,0 +1,22 @@
+{
+  "name": "bowrotate",
+  "version": "1.0.0",
+  "authors": [
+    "k1the1 <k1the1@users.noreply.github.com>"
+  ],
+  "description": "a simple js element rotator",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate",
+    "rotator"
+  ],
+  "license": "MIT",
+  "homepage": "http://startup98.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
